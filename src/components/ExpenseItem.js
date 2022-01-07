@@ -10,4 +10,4 @@ function ExpenseItem() {
     </div>
   );
 }
-export default ExpenseItem;
+export default ExpenseItem; 
