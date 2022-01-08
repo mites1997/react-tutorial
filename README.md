@@ -1,3 +1,5 @@
+# react-tutorial
+A GitHub repo that contains everything I will learn/have learnt about react
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
